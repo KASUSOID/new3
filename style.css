@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+ header { border: 3px solid violet; 
+ border-radius: 15px;
+ padding: 5px;  }
+ header a { text-decoration: none;
+ border: 2px solid MediumPurple;
+ padding: 2px ;
+ background-color:MediumPurple ;
+ color: Indigo ;
+ border-radius: 10px  ;}
+
+ h1 {text-align: center;
+  color: DarkSlateBlue;}
+  footer { background-color:BlueViolet;}
+
+nav {border: 3px solid violet;
+ border-radius: 15px;
+ padding: 4px;}
+ nav a { text-decoration: none;
+ padding: 45px;}
+
+.fix {border: 3px solid violet;
+border-radius: 15px;
+ padding: 4px;
+ text-align: center;}
+
+ h2 {text-align: center;
+ color: DarkSlateBlue ;
+ padding: 4px; }
